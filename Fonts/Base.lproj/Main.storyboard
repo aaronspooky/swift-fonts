@@ -90,10 +90,10 @@
             </objects>
             <point key="canvasLocation" x="-746" y="-560"/>
         </scene>
-        <!--Table View Controller-->
+        <!--Font Sizes View Controller-->
         <scene sceneID="3Ea-po-WYs">
             <objects>
-                <tableViewController id="7a1-y3-gf3" sceneMemberID="viewController">
+                <tableViewController id="7a1-y3-gf3" customClass="FontSizesViewController" customModule="Fonts" customModuleProvider="target" sceneMemberID="viewController">
                     <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="44" sectionHeaderHeight="28" sectionFooterHeight="28" id="zVc-TI-QWg">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
